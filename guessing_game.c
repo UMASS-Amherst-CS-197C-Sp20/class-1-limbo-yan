@@ -2,6 +2,7 @@
 #include <stdbool.h>
 
 int main(void) {
+	printf("test");
 	/*
 		TODO:
 		change this guessing game to make it accept command line arguement
